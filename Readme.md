@@ -1,3 +1,3 @@
 # Trabalho
 
-git e github
+Git e Github aula
